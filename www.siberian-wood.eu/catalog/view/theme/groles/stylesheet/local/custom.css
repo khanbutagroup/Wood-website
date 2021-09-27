@@ -1,0 +1,41 @@
+.groles-slider-1 {color:#fcd846;}
+.dejavnosti-list {list-style: none; /* Remove list bullets */
+    padding: 0;
+    margin: 0;}
+.dejavnosti-list li:before {
+    content: &quot;•&quot;; /* Insert content that looks like bullets */
+    padding-right: 8px;
+    color: blue; /* Or a color you prefer */
+}
+.footer-bottom {
+    background: #fff!important;
+    color: #7e7e7e;
+    padding: 0px 0!important;
+}
+.footer-top {
+    background-image:none;
+    color: #fff!important;
+    position: relative;
+    display: none;
+}
+.copyright {
+    text-align: center;
+    color: #363636!important;
+    background: #f3bc17;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.text-40 {
+    font-size: 30px;
+    line-height: 30px;
+}
+.eulogo a img {
+    max-height: 50px;
+padding-left: 20px;
+}
+.logo {
+    float: left;
+max-width: 200px;
+}
+.autosearch-wrapper .category_filter { min-width: 180px;
+}
